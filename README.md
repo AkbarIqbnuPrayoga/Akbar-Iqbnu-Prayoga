@@ -1,21 +1,21 @@
-<h1 align="center">Hi 👋, I'm Rakha Febryza</h1>
-<h3 align="center">Front-End Developer | Data Enthusiast | Machine Learning Explorer</h3>
+<h1 align="center">Hi 👋, Aku Akbar Iqbnu Prayoga</h1>
+<h3 align="center">Front-End Developer | Data Enthusiast |  Web Developer</h3>
 
 <div align="center">
   <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="200"/>
 </div>
 
 <p align="center">
-  <a href="https://next.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-next.vercel.app-blue?style=for-the-badge&logo=vercel"/>
+  <a href="https://nexct.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-nexct.vercel.app-blue?style=for-the-badge&logo=vercel"/>
   </a>
-  <a href="https://github.com/rakhafebryza">
+  <a href="https://github.com/AkbarIqbnuPrayoga">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/rakha.febryza/">
+  <a href="https://www.instagram.com/akbariqbnu/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://www.tiktok.com/@rk.central">
+  <a href="https://www.tiktok.com/@4kb444r?">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
   </a>
 </p>
@@ -30,31 +30,28 @@ Saya adalah individu dengan minat kuat di bidang **Front-End Development**, **Da
 
 - 🌱 Saat ini sedang belajar: **Machine Learning & Cloud Computing**
 - 👯 Siap berkolaborasi di: **Proyek Web Development & Data Analysis**
-- 📫 Hubungi saya: **[email-mu]**
-- ⚡ Fun fact: Saya suka ngoding sambil dengerin musik lo-fi
+- 📫 Hubungi saya: **akbariqbnup@gmail.com**
+- ⚡ Fun fact: Saya suka ngoding sambil makan pilus
 
 <br clear="right"/>
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Projects
 
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">Rakha Store</h3>
+      <h3 align="center">NEXCT-ShortLink</h3>
       <div align="center">
-        <a href="https://github.com/rakhafebryza/rakha-store" target="_blank">
-          <img src="https://via.placeholder.com/400x200/0a1929/ffffff?text=Rakha+Store" width="100%" alt="Rakha Store"/>
+        <a href="https://nexct-image2prompt.vercel.app" target="_blank">
+          <img src="img/image3.png" width="100%" alt="image2prompt"/>
         </a>
         <p>
-          <strong>E-commerce Website</strong> - Platform e-commerce modern untuk penjualan produk dengan tampilan responsif dan interaktif. Dibangun dengan teknologi web terkini untuk pengalaman belanja yang optimal.
+          <strong>NEXCT-ShortLink</strong> - Sebuah website untuk membuat gambar menjadi sebuah teks prompt untuk digunakan kembali.
         </p>
         <p>
-          <a href="https://github.com/rakhafebryza/rakha-store">
-            <img src="https://img.shields.io/badge/Repo-🔥-brightgreen?style=for-the-badge"/>
-          </a>
-          <a href="https://rakha-store.vercel.app">
+          <a href="https://nexct-image2prompt.vercel.app">
             <img src="https://img.shields.io/badge/Live Demo-🚀-blue?style=for-the-badge"/>
           </a>
         </p>
@@ -244,7 +241,7 @@ Saya adalah individu dengan minat kuat di bidang **Front-End Development**, **Da
 
 ---
 
-### 🛠️ Skills & Tools
+### Skills & Tools
 
 #### Front-End Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -271,70 +268,19 @@ Saya adalah individu dengan minat kuat di bidang **Front-End Development**, **Da
 
 ---
 
-### 🎓 Education & Training
-
-<table>
-  <tr>
-    <td width="30%"><strong>2023 - 2027 (Expected)</strong></td>
-    <td width="70%">
-      <strong>Universitas Tarumanagara</strong> - Jakarta<br>
-      Bachelor of Computer Science
-    </td>
-  </tr>
-  <tr>
-    <td><strong>2020 - 2023</strong></td>
-    <td>
-      <strong>SMKS Bakti Mandiri</strong> - Bekasi<br>
-      Multimedia - Desain, komunikasi visual, dan dasar pengembangan web
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Aug 2024 - Nov 2024</strong></td>
-    <td>
-      <strong>Red Hat System Administration</strong><br>
-      Manajemen Linux, navigasi terminal, struktur file system
-    </td>
-  </tr>
-</table>
-
----
-
-### 📊 GitHub Stats & Animations
-
-<div align="center">
-  
-  <!-- Snake Animation -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/rakhafebryza/rakhafebryza/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/rakhafebryza/rakhafebryza/blob/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://github.com/rakhafebryza/rakhafebryza/blob/output/github-contribution-grid-snake.svg" />
-  </picture>
-
-  <!-- Stats Cards -->
-  <img src="https://github-readme-stats.vercel.app/api?username=rakhafebryza&show_icons=true&theme=radical" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakhafebryza&layout=compact&theme=radical" alt="Top Languages" height="170"/>
-  
-  <br/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakhafebryza&theme=radical" alt="GitHub Streak" width="48%"/>
-  
-</div>
-
----
-
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://next.vercel.app/">
+  <a href="https://nexct.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-🖥️-000000?style=for-the-badge"/>
   </a>
-  <a href="https://github.com/rakhafebryza">
+  <a href="https://github.com/AkbarIqbnuPrayoga">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/rakha.febryza/">
+  <a href="https://www.instagram.com/akbariqbnu/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://www.tiktok.com/@rk.central">
+  <a href="https://www.tiktok.com/@4kb444r?">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
   </a>
 </p>
@@ -343,5 +289,5 @@ Saya adalah individu dengan minat kuat di bidang **Front-End Development**, **Da
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=rakhafebryza&style=flat-square&color=blue" alt="Profile views"/>
-  <p>⭐️ From Rakha Febryza (https://github.com/rakhafebryza)</p>
+  <p>© 2026 NEXCT B444R. Semua Hak Dilindungi. | Akbar Iqbnu Prayoga | Developer NEXCT</p>
 </div>
