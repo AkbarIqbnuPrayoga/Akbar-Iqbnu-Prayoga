@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Nama Kamu]</h1>
+<h1 align="center">Hi 👋, I'm Rakha Febryza</h1>
 <h3 align="center">Front-End Developer | Data Enthusiast | Machine Learning Explorer</h3>
 
 <div align="center">
@@ -9,11 +9,14 @@
   <a href="https://next.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-next.vercel.app-blue?style=for-the-badge&logo=vercel"/>
   </a>
-  <a href="https://www.linkedin.com/in/[username-linkedin-mu]/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://github.com/rakhafebryza">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="mailto:[email-mu]">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="https://www.instagram.com/rakha.febryza/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.tiktok.com/@rk.central">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
   </a>
 </p>
 
@@ -39,38 +42,38 @@ Saya adalah individu dengan minat kuat di bidang **Front-End Development**, **Da
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">Education Training Website</h3>
+      <h3 align="center">Rakha Store</h3>
       <div align="center">
-        <a href="[link-repo-education]" target="_blank">
-          <img src="https://via.placeholder.com/400x200/0a1929/ffffff?text=Education+Training" width="100%" alt="Education Training Website"/>
+        <a href="https://github.com/rakhafebryza/rakha-store" target="_blank">
+          <img src="https://via.placeholder.com/400x200/0a1929/ffffff?text=Rakha+Store" width="100%" alt="Rakha Store"/>
         </a>
         <p>
-          <strong>HTML, CSS, Bootstrap, MySQL</strong> - Platform pelatihan untuk mengakses jadwal, sertifikat, dan sesi pelatihan. Dilengkapi notifikasi email otomatis dan manajemen database yang efisien.
+          <strong>E-commerce Website</strong> - Platform e-commerce modern untuk penjualan produk dengan tampilan responsif dan interaktif. Dibangun dengan teknologi web terkini untuk pengalaman belanja yang optimal.
         </p>
         <p>
-          <a href="[link-repo-education]">
+          <a href="https://github.com/rakhafebryza/rakha-store">
             <img src="https://img.shields.io/badge/Repo-🔥-brightgreen?style=for-the-badge"/>
           </a>
-          <a href="[link-demo-education]">
+          <a href="https://rakha-store.vercel.app">
             <img src="https://img.shields.io/badge/Live Demo-🚀-blue?style=for-the-badge"/>
           </a>
         </p>
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">Mobile Phone Sales Website</h3>
+      <h3 align="center">Rakha Bikes</h3>
       <div align="center">
-        <a href="[link-repo-mobile]" target="_blank">
-          <img src="https://via.placeholder.com/400x200/0a1929/ffffff?text=Mobile+Phone+Sales" width="100%" alt="Mobile Phone Sales"/>
+        <a href="https://github.com/rakhafebryza/rakha-bikes" target="_blank">
+          <img src="https://via.placeholder.com/400x200/0a1929/ffffff?text=Rakha+Bikes" width="100%" alt="Rakha Bikes"/>
         </a>
         <p>
-          <strong>HTML, CSS, JavaScript</strong> - E-commerce responsif dengan katalog interaktif, fitur pencarian, filter, sorting, dan keranjang belanja dinamis tanpa reload halaman.
+          <strong>Website Penjualan Sepeda</strong> - Aplikasi web responsif untuk penjualan sepeda dengan katalog interaktif, fitur pencarian, filter, dan sistem pemesanan yang mudah digunakan.
         </p>
         <p>
-          <a href="[link-repo-mobile]">
+          <a href="https://github.com/rakhafebryza/rakha-bikes">
             <img src="https://img.shields.io/badge/Repo-🔥-brightgreen?style=for-the-badge"/>
           </a>
-          <a href="[link-demo-mobile]">
+          <a href="https://rakha-bikes.vercel.app">
             <img src="https://img.shields.io/badge/Live Demo-🚀-blue?style=for-the-badge"/>
           </a>
         </p>
@@ -78,20 +81,159 @@ Saya adalah individu dengan minat kuat di bidang **Front-End Development**, **Da
     </td>
   </tr>
   <tr>
-    <td width="50%" colspan="2">
-      <h3 align="center">Smart Dashboard Website</h3>
+    <td width="50%">
+      <h3 align="center">Rakha Coffee</h3>
       <div align="center">
-        <a href="[link-repo-dashboard]" target="_blank">
-          <img src="https://via.placeholder.com/800x200/0a1929/ffffff?text=Smart+Dashboard" width="100%" alt="Smart Dashboard"/>
+        <a href="https://github.com/rakhafebryza/rakha-coffee" target="_blank">
+          <img src="https://via.placeholder.com/400x200/0a1929/ffffff?text=Rakha+Coffee" width="100%" alt="Rakha Coffee"/>
         </a>
         <p>
-          <strong>HTML, CSS, Bootstrap, JavaScript</strong> - Dashboard multifungsi dengan profile section, countdown timer, weather widget, social media shortcuts, music player, to-do list, dan stopwatch. Terintegrasi dengan real-time data untuk update cuaca live.
+          <strong>Landing Page Coffee Shop</strong> - Landing page modern untuk coffee shop dengan desain menarik, animasi halus, dan informasi lengkap tentang menu, lokasi, dan promo terkini.
         </p>
         <p>
-          <a href="[link-repo-dashboard]">
+          <a href="https://github.com/rakhafebryza/rakha-coffee">
             <img src="https://img.shields.io/badge/Repo-🔥-brightgreen?style=for-the-badge"/>
           </a>
-          <a href="[link-demo-dashboard]">
+          <a href="https://rakha-coffee.vercel.app">
+            <img src="https://img.shields.io/badge/Live Demo-🚀-blue?style=for-the-badge"/>
+          </a>
+        </p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">Rakha Shoes</h3>
+      <div align="center">
+        <a href="https://github.com/rakhafebryza/rakha-shoes" target="_blank">
+          <img src="https://via.placeholder.com/400x200/0a1929/ffffff?text=Rakha+Shoes" width="100%" alt="Rakha Shoes"/>
+        </a>
+        <p>
+          <strong>Website Penjualan Sepatu</strong> - Platform e-commerce khusus penjualan sepatu dengan tampilan modern, fitur filtering berdasarkan ukuran, brand, dan harga, serta sistem keranjang belanja yang responsif.
+        </p>
+        <p>
+          <a href="https://github.com/rakhafebryza/rakha-shoes">
+            <img src="https://img.shields.io/badge/Repo-🔥-brightgreen?style=for-the-badge"/>
+          </a>
+          <a href="https://rakha-shoes.vercel.app">
+            <img src="https://img.shields.io/badge/Live Demo-🚀-blue?style=for-the-badge"/>
+          </a>
+        </p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Personal Web</h3>
+      <div align="center">
+        <a href="https://github.com/rakhafebryza/personal-web" target="_blank">
+          <img src="https://via.placeholder.com/400x200/0a1929/ffffff?text=Personal+Web" width="100%" alt="Personal Web"/>
+        </a>
+        <p>
+          <strong>Website Portfolio Pribadi</strong> - Website portfolio personal yang menampilkan profil, project, dan keterampilan dengan desain yang elegan dan responsif.
+        </p>
+        <p>
+          <a href="https://github.com/rakhafebryza/personal-web">
+            <img src="https://img.shields.io/badge/Repo-🔥-brightgreen?style=for-the-badge"/>
+          </a>
+          <a href="https://personal-web-rakha.vercel.app">
+            <img src="https://img.shields.io/badge/Live Demo-🚀-blue?style=for-the-badge"/>
+          </a>
+        </p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">Calculator App</h3>
+      <div align="center">
+        <a href="https://github.com/rakhafebryza/calculator-app" target="_blank">
+          <img src="https://via.placeholder.com/400x200/0a1929/ffffff?text=Calculator+App" width="100%" alt="Calculator App"/>
+        </a>
+        <p>
+          <strong>Aplikasi Kalkulator</strong> - Aplikasi kalkulator modern dengan antarmuka yang bersih, mendukung operasi matematika dasar, dan dilengkapi fitur dark mode.
+        </p>
+        <p>
+          <a href="https://github.com/rakhafebryza/calculator-app">
+            <img src="https://img.shields.io/badge/Repo-🔥-brightgreen?style=for-the-badge"/>
+          </a>
+          <a href="https://calculator-app-rakha.vercel.app">
+            <img src="https://img.shields.io/badge/Live Demo-🚀-blue?style=for-the-badge"/>
+          </a>
+        </p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Coming Soon Page</h3>
+      <div align="center">
+        <a href="https://github.com/rakhafebryza/coming-soon-page" target="_blank">
+          <img src="https://via.placeholder.com/400x200/0a1929/ffffff?text=Coming+Soon+Page" width="100%" alt="Coming Soon Page"/>
+        </a>
+        <p>
+          <strong>Halaman Coming Soon</strong> - Halaman coming soon yang menarik dengan countdown timer, form pendaftaran newsletter, dan desain yang modern.
+        </p>
+        <p>
+          <a href="https://github.com/rakhafebryza/coming-soon-page">
+            <img src="https://img.shields.io/badge/Repo-🔥-brightgreen?style=for-the-badge"/>
+          </a>
+          <a href="https://coming-soon-page-rakha.vercel.app">
+            <img src="https://img.shields.io/badge/Live Demo-🚀-blue?style=for-the-badge"/>
+          </a>
+        </p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">Login Page</h3>
+      <div align="center">
+        <a href="https://github.com/rakhafebryza/login-page" target="_blank">
+          <img src="https://via.placeholder.com/400x200/0a1929/ffffff?text=Login+Page" width="100%" alt="Login Page"/>
+        </a>
+        <p>
+          <strong>Halaman Login Modern</strong> - Halaman login dengan desain modern, validasi form, dan animasi yang halus untuk pengalaman pengguna yang lebih baik.
+        </p>
+        <p>
+          <a href="https://github.com/rakhafebryza/login-page">
+            <img src="https://img.shields.io/badge/Repo-🔥-brightgreen?style=for-the-badge"/>
+          </a>
+          <a href="https://login-page-rakha.vercel.app">
+            <img src="https://img.shields.io/badge/Live Demo-🚀-blue?style=for-the-badge"/>
+          </a>
+        </p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Age Calculator</h3>
+      <div align="center">
+        <a href="https://github.com/rakhafebryza/age-calculator" target="_blank">
+          <img src="https://via.placeholder.com/400x200/0a1929/ffffff?text=Age+Calculator" width="100%" alt="Age Calculator"/>
+        </a>
+        <p>
+          <strong>Aplikasi Kalkulator Usia</strong> - Aplikasi sederhana untuk menghitung usia berdasarkan tanggal lahir dengan tampilan yang bersih dan mudah digunakan.
+        </p>
+        <p>
+          <a href="https://github.com/rakhafebryza/age-calculator">
+            <img src="https://img.shields.io/badge/Repo-🔥-brightgreen?style=for-the-badge"/>
+          </a>
+          <a href="https://age-calculator-rakha.vercel.app">
+            <img src="https://img.shields.io/badge/Live Demo-🚀-blue?style=for-the-badge"/>
+          </a>
+        </p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">QR Code Component</h3>
+      <div align="center">
+        <a href="https://github.com/rakhafebryza/qr-code-component" target="_blank">
+          <img src="https://via.placeholder.com/400x200/0a1929/ffffff?text=QR+Code+Component" width="100%" alt="QR Code Component"/>
+        </a>
+        <p>
+          <strong>Komponen QR Code</strong> - Komponen sederhana untuk menampilkan QR code dengan desain yang bersih dan responsif, cocok untuk berbagai kebutuhan.
+        </p>
+        <p>
+          <a href="https://github.com/rakhafebryza/qr-code-component">
+            <img src="https://img.shields.io/badge/Repo-🔥-brightgreen?style=for-the-badge"/>
+          </a>
+          <a href="https://qr-code-component-rakha.vercel.app">
             <img src="https://img.shields.io/badge/Live Demo-🚀-blue?style=for-the-badge"/>
           </a>
         </p>
@@ -163,18 +305,18 @@ Saya adalah individu dengan minat kuat di bidang **Front-End Development**, **Da
   
   <!-- Snake Animation -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/[username-mu]/[username-mu]/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/[username-mu]/[username-mu]/blob/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://github.com/[username-mu]/[username-mu]/blob/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/rakhafebryza/rakhafebryza/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/rakhafebryza/rakhafebryza/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://github.com/rakhafebryza/rakhafebryza/blob/output/github-contribution-grid-snake.svg" />
   </picture>
 
   <!-- Stats Cards -->
-  <img src="https://github-readme-stats.vercel.app/api?username=[username-mu]&show_icons=true&theme=radical" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[username-mu]&layout=compact&theme=radical" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rakhafebryza&show_icons=true&theme=radical" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakhafebryza&layout=compact&theme=radical" alt="Top Languages" height="170"/>
   
   <br/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[username-mu]&theme=radical" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakhafebryza&theme=radical" alt="GitHub Streak" width="48%"/>
   
 </div>
 
@@ -183,20 +325,23 @@ Saya adalah individu dengan minat kuat di bidang **Front-End Development**, **Da
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://nexct.vercel.app/">
+  <a href="https://next.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-🖥️-000000?style=for-the-badge"/>
   </a>
-  <a href="https://github.com/AkbarIqbnuPrayoga">
+  <a href="https://github.com/rakhafebryza">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/akbariqbnu/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.instagram.com/rakha.febryza/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.tiktok.com/@rk.central">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=[username-mu]&style=flat-square&color=blue" alt="Profile views"/>
-  <p>⭐️ From Akbar Iqbnu Prayoga (https://github.com/AkbarIqbnuPrayoga)</p>
+  <img src="https://komarev.com/ghpvc/?username=rakhafebryza&style=flat-square&color=blue" alt="Profile views"/>
+  <p>⭐️ From Rakha Febryza (https://github.com/rakhafebryza)</p>
 </div>
