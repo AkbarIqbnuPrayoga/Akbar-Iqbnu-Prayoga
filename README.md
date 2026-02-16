@@ -326,8 +326,6 @@ Saya memiliki minat yang kuat di bidang **Front-End Development**, **Data Analys
   <p>© 2026 NEXCT B444R. Semua Hak Dilindungi. | Akbar Iqbnu Prayoga | Developer NEXCT</p>
 </div>
 
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:9333EA&height=120&section=footer"/>
