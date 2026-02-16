@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Aku Akbar Iqbnu Prayoga</h1>
-<h3 align="center">Front-End Developer | Data Enthusiast |  Web Developer</h3>
+<h3 align="center">Front-End Developer | Data Enthusiast | Web Developer | Machine Learning</h3>
 
 <div align="center">
   <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="200"/>
@@ -26,14 +26,22 @@
 
 <img align="right" src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="250"/>
 
-Saya adalah individu dengan minat kuat di bidang **Front-End Development**, **Data Analysis**, dan **Machine Learning**. Berpengalaman dalam mengembangkan antarmuka pengguna yang interaktif dan responsif, menganalisis data untuk menghasilkan wawasan yang berguna, serta mengeksplorasi penerapan model machine learning untuk solusi database. Saya adalah pembelajar cepat, teliti, dan antusias terhadap teknologi baru serta kolaborasi dalam tim lintas disiplin.
+Saya adalah individu yang memiliki minat kuat di bidang **Front-End Development**, **Data Analyst**, dan **Machine Learning**. Saya berpengalaman dalam mengembangkan antarmuka pengguna yang interaktif dan responsif, menganalisis data untuk menghasilkan wawasan yang berguna, serta mengeksplorasi penerapan model machine learning untuk solusi berbasis database. Komitmen saya dalam mengembangkan skill di bidang IT dan open-source. Saya percaya teknologi bukan sekadar alat, tapi solusi untuk menciptakan dampak nyata.
 
-- 🌱 Saat ini sedang belajar: **Machine Learning & Cloud Computing**
-- 👯 Siap berkolaborasi di: **Proyek Web Development & Data Analysis**
+- 🌱 Saat ini sedang belajar: **Machine Learning & Web Developer**
+- 👯 Siap berkolaborasi di: **Proyek Web Development & Data Analyst**
 - 📫 Hubungi saya: **akbariqbnup@gmail.com**
 - ⚡ Fun fact: Saya suka ngoding sambil makan pilus
 
 <br clear="right"/>
+
+---
+
+### 🐍 Contribution Project
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</div>
 
 ---
 
@@ -42,13 +50,13 @@ Saya adalah individu dengan minat kuat di bidang **Front-End Development**, **Da
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">NEXCT-ShortLink</h3>
+      <h3 align="center">NEXCT-Image2Prompt</h3>
       <div align="center">
         <a href="https://nexct-image2prompt.vercel.app" target="_blank">
           <img src="img/image3.png" width="100%" alt="image2prompt"/>
         </a>
         <p>
-          <strong>NEXCT-ShortLink</strong> - Sebuah website untuk membuat gambar menjadi sebuah teks prompt untuk digunakan kembali.
+          <strong>NEXCT-Image2Prompt</strong> - Sebuah website untuk membuat gambar menjadi sebuah teks prompt untuk digunakan kembali.
         </p>
         <p>
           <a href="https://nexct-image2prompt.vercel.app">
@@ -58,19 +66,16 @@ Saya adalah individu dengan minat kuat di bidang **Front-End Development**, **Da
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">Rakha Bikes</h3>
+      <h3 align="center">NEXCT-Music Hub</h3>
       <div align="center">
-        <a href="https://github.com/rakhafebryza/rakha-bikes" target="_blank">
-          <img src="https://via.placeholder.com/400x200/0a1929/ffffff?text=Rakha+Bikes" width="100%" alt="Rakha Bikes"/>
+        <a href="https://nexct-music.vercel.app" target="_blank">
+          <img src="img/image.png" width="100%" alt="Rakha Bikes"/>
         </a>
         <p>
-          <strong>Website Penjualan Sepeda</strong> - Aplikasi web responsif untuk penjualan sepeda dengan katalog interaktif, fitur pencarian, filter, dan sistem pemesanan yang mudah digunakan.
+          <strong>NEXCT-Music Hub</strong> - Sebuah website untuk mendengarkan lagu dengan menggunakan interface yang mirip dengan spotify.
         </p>
         <p>
-          <a href="https://github.com/rakhafebryza/rakha-bikes">
-            <img src="https://img.shields.io/badge/Repo-🔥-brightgreen?style=for-the-badge"/>
-          </a>
-          <a href="https://rakha-bikes.vercel.app">
+          <a href="https://nexct-music.vercel.app">
             <img src="https://img.shields.io/badge/Live Demo-🚀-blue?style=for-the-badge"/>
           </a>
         </p>
@@ -79,38 +84,32 @@ Saya adalah individu dengan minat kuat di bidang **Front-End Development**, **Da
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">Rakha Coffee</h3>
+      <h3 align="center">NEXCT-ShortLink</h3>
       <div align="center">
-        <a href="https://github.com/rakhafebryza/rakha-coffee" target="_blank">
-          <img src="https://via.placeholder.com/400x200/0a1929/ffffff?text=Rakha+Coffee" width="100%" alt="Rakha Coffee"/>
+        <a href="https://nexct-shortlink.vercel.app" target="_blank">
+          <img src="img/image2.png" width="100%" alt="Rakha Coffee"/>
         </a>
         <p>
-          <strong>Landing Page Coffee Shop</strong> - Landing page modern untuk coffee shop dengan desain menarik, animasi halus, dan informasi lengkap tentang menu, lokasi, dan promo terkini.
+          <strong>NEXCT-ShortLink</strong> - Sebuah website yang digunakan untuk mengubah link panjang menjadi link yang pendek untuk dibagikan.
         </p>
         <p>
-          <a href="https://github.com/rakhafebryza/rakha-coffee">
-            <img src="https://img.shields.io/badge/Repo-🔥-brightgreen?style=for-the-badge"/>
-          </a>
-          <a href="https://rakha-coffee.vercel.app">
+          <a href="https://nexct-shortlink.vercel.app">
             <img src="https://img.shields.io/badge/Live Demo-🚀-blue?style=for-the-badge"/>
           </a>
         </p>
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">Rakha Shoes</h3>
+      <h3 align="center">NEXCT-SpotifyDL</h3>
       <div align="center">
-        <a href="https://github.com/rakhafebryza/rakha-shoes" target="_blank">
-          <img src="https://via.placeholder.com/400x200/0a1929/ffffff?text=Rakha+Shoes" width="100%" alt="Rakha Shoes"/>
+        <a href="https://nexct-spotifydl.vercel.app/" target="_blank">
+          <img src="img/image4.png" width="100%" alt="Rakha Shoes"/>
         </a>
         <p>
-          <strong>Website Penjualan Sepatu</strong> - Platform e-commerce khusus penjualan sepatu dengan tampilan modern, fitur filtering berdasarkan ukuran, brand, dan harga, serta sistem keranjang belanja yang responsif.
+          <strong>NEXCT-SpotifyDL</strong> - Sebuah Web downloader sederhana untuk mengunduh lagu Spotify dengan tampilan modern dan mudah digunakan.
         </p>
         <p>
-          <a href="https://github.com/rakhafebryza/rakha-shoes">
-            <img src="https://img.shields.io/badge/Repo-🔥-brightgreen?style=for-the-badge"/>
-          </a>
-          <a href="https://rakha-shoes.vercel.app">
+          <a href="https://nexct-spotifydl.vercel.app/">
             <img src="https://img.shields.io/badge/Live Demo-🚀-blue?style=for-the-badge"/>
           </a>
         </p>
@@ -119,38 +118,32 @@ Saya adalah individu dengan minat kuat di bidang **Front-End Development**, **Da
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">Personal Web</h3>
+      <h3 align="center">NEXCT-DramaBox</h3>
       <div align="center">
-        <a href="https://github.com/rakhafebryza/personal-web" target="_blank">
-          <img src="https://via.placeholder.com/400x200/0a1929/ffffff?text=Personal+Web" width="100%" alt="Personal Web"/>
+        <a href="https://nexct-dramabox.vercel.app" target="_blank">
+          <img src="img/image5.png" width="100%" alt="Personal Web"/>
         </a>
         <p>
-          <strong>Website Portfolio Pribadi</strong> - Website portfolio personal yang menampilkan profil, project, dan keterampilan dengan desain yang elegan dan responsif.
+          <strong>NEXCT-DramaBox</strong> - Sebuah Web streaming drama sederhana untuk menonton berbagai video drama secara online dengan tampilan modern dan responsif.
         </p>
         <p>
-          <a href="https://github.com/rakhafebryza/personal-web">
-            <img src="https://img.shields.io/badge/Repo-🔥-brightgreen?style=for-the-badge"/>
-          </a>
-          <a href="https://personal-web-rakha.vercel.app">
+          <a href="https://nexct-dramabox.vercel.app/">
             <img src="https://img.shields.io/badge/Live Demo-🚀-blue?style=for-the-badge"/>
           </a>
         </p>
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">Calculator App</h3>
+      <h3 align="center">NEXCT-TiktokDL</h3>
       <div align="center">
-        <a href="https://github.com/rakhafebryza/calculator-app" target="_blank">
-          <img src="https://via.placeholder.com/400x200/0a1929/ffffff?text=Calculator+App" width="100%" alt="Calculator App"/>
+        <a href="https://nexct-tiktokdl.vercel.app/" target="_blank">
+          <img src="img/image6.png" width="100%" alt="Calculator App"/>
         </a>
         <p>
-          <strong>Aplikasi Kalkulator</strong> - Aplikasi kalkulator modern dengan antarmuka yang bersih, mendukung operasi matematika dasar, dan dilengkapi fitur dark mode.
+          <strong>NEXCT-TiktokDL</strong> - Sebuah Web downloader sederhana untuk mengunduh audio, video, dan foto dari link TikTok.
         </p>
         <p>
-          <a href="https://github.com/rakhafebryza/calculator-app">
-            <img src="https://img.shields.io/badge/Repo-🔥-brightgreen?style=for-the-badge"/>
-          </a>
-          <a href="https://calculator-app-rakha.vercel.app">
+          <a href="https://nexct-tiktokdl.vercel.app/">
             <img src="https://img.shields.io/badge/Live Demo-🚀-blue?style=for-the-badge"/>
           </a>
         </p>
@@ -159,38 +152,32 @@ Saya adalah individu dengan minat kuat di bidang **Front-End Development**, **Da
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">Coming Soon Page</h3>
+      <h3 align="center">NEXCT-Nime</h3>
       <div align="center">
-        <a href="https://github.com/rakhafebryza/coming-soon-page" target="_blank">
-          <img src="https://via.placeholder.com/400x200/0a1929/ffffff?text=Coming+Soon+Page" width="100%" alt="Coming Soon Page"/>
+        <a href="https://nexctnime.vercel.app/" target="_blank">
+          <img src="img/image7.png" width="100%" alt="Coming Soon Page"/>
         </a>
         <p>
-          <strong>Halaman Coming Soon</strong> - Halaman coming soon yang menarik dengan countdown timer, form pendaftaran newsletter, dan desain yang modern.
+          <strong>NEXCT-Nime</strong> - Sebuah Web streaming anime dengan pilihan berbagai resolusi dan server untuk pengalaman menonton yang fleksibel dan responsif.
         </p>
         <p>
-          <a href="https://github.com/rakhafebryza/coming-soon-page">
-            <img src="https://img.shields.io/badge/Repo-🔥-brightgreen?style=for-the-badge"/>
-          </a>
-          <a href="https://coming-soon-page-rakha.vercel.app">
+          <a href="https://nexctnime.vercel.app/">
             <img src="https://img.shields.io/badge/Live Demo-🚀-blue?style=for-the-badge"/>
           </a>
         </p>
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">Login Page</h3>
+      <h3 align="center">NEXCT-Lyrics</h3>
       <div align="center">
-        <a href="https://github.com/rakhafebryza/login-page" target="_blank">
-          <img src="https://via.placeholder.com/400x200/0a1929/ffffff?text=Login+Page" width="100%" alt="Login Page"/>
+        <a href="https://nexct-lyrics.vercel.app/" target="_blank">
+          <img src="img/image8.png" width="100%" alt="Login Page"/>
         </a>
         <p>
-          <strong>Halaman Login Modern</strong> - Halaman login dengan desain modern, validasi form, dan animasi yang halus untuk pengalaman pengguna yang lebih baik.
+          <strong>NEXCT-Lyrics</strong> - Web aplikasi pencari dan penampil lirik lagu, dengan tampilan sederhana dan mudah digunakan.
         </p>
         <p>
-          <a href="https://github.com/rakhafebryza/login-page">
-            <img src="https://img.shields.io/badge/Repo-🔥-brightgreen?style=for-the-badge"/>
-          </a>
-          <a href="https://login-page-rakha.vercel.app">
+          <a href="https://nexct-lyrics.vercel.app/">
             <img src="https://img.shields.io/badge/Live Demo-🚀-blue?style=for-the-badge"/>
           </a>
         </p>
@@ -199,38 +186,64 @@ Saya adalah individu dengan minat kuat di bidang **Front-End Development**, **Da
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">Age Calculator</h3>
+      <h3 align="center">NEXCT-Comments</h3>
       <div align="center">
-        <a href="https://github.com/rakhafebryza/age-calculator" target="_blank">
-          <img src="https://via.placeholder.com/400x200/0a1929/ffffff?text=Age+Calculator" width="100%" alt="Age Calculator"/>
+        <a href="https://nexct-forum.vercel.app/" target="_blank">
+          <img src="img/image9.png" width="100%" alt="Age Calculator"/>
         </a>
         <p>
-          <strong>Aplikasi Kalkulator Usia</strong> - Aplikasi sederhana untuk menghitung usia berdasarkan tanggal lahir dengan tampilan yang bersih dan mudah digunakan.
+          <strong>NEXCT-Comments</strong> - Sebuah Web forum sederhana dengan fitur komentar yang tersimpan di database secara real-time.
         </p>
         <p>
-          <a href="https://github.com/rakhafebryza/age-calculator">
-            <img src="https://img.shields.io/badge/Repo-🔥-brightgreen?style=for-the-badge"/>
-          </a>
-          <a href="https://age-calculator-rakha.vercel.app">
+          <a href="https://nexct-forum.vercel.app/">
             <img src="https://img.shields.io/badge/Live Demo-🚀-blue?style=for-the-badge"/>
           </a>
         </p>
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">QR Code Component</h3>
+      <h3 align="center">NEXCT-SSWeb</h3>
       <div align="center">
-        <a href="https://github.com/rakhafebryza/qr-code-component" target="_blank">
-          <img src="https://via.placeholder.com/400x200/0a1929/ffffff?text=QR+Code+Component" width="100%" alt="QR Code Component"/>
+        <a href="https://nexct-captureweb.vercel.app/" target="_blank">
+          <img src="img/image10.png" width="100%" alt="QR Code Component"/>
         </a>
         <p>
-          <strong>Komponen QR Code</strong> - Komponen sederhana untuk menampilkan QR code dengan desain yang bersih dan responsif, cocok untuk berbagai kebutuhan.
+          <strong>NEXCT-SSWeb</strong> - Web Screenshot adalah tool berbasis web canggih untuk mengambil screenshot website secara real-time dengan kualitas tinggi.
         </p>
         <p>
-          <a href="https://github.com/rakhafebryza/qr-code-component">
-            <img src="https://img.shields.io/badge/Repo-🔥-brightgreen?style=for-the-badge"/>
+          <a href="https://nexct-captureweb.vercel.app/">
+            <img src="https://img.shields.io/badge/Live Demo-🚀-blue?style=for-the-badge"/>
           </a>
-          <a href="https://qr-code-component-rakha.vercel.app">
+        </p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">NEXCT-YoutubeDL</h3>
+      <div align="center">
+        <a href="https://nexct-ytdl.vercel.app/" target="_blank">
+          <img src="img/image11.png" width="100%" alt="QR Code Component"/>
+        </a>
+        <p>
+          <strong>NEXCT-YoutubeDL</strong> - Sebuah Web untuk Download video dan musik dari YouTube dengan MUDAH dan CEPAT!
+        </p>
+        <p>
+          <a href="https://nexct-ytdl.vercel.app/">
+            <img src="https://img.shields.io/badge/Live Demo-🚀-blue?style=for-the-badge"/>
+          </a>
+        </p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">NEXCT-Webclone</h3>
+      <div align="center">
+        <a href="https://nexctwebclone.vercel.app/" target="_blank">
+          <img src="img/image12.png" width="100%" alt="QR Code Component"/>
+        </a>
+        <p>
+          <strong>NEXCT-Webclone</strong> - Web aplikasi clone dashboard/landing page yang dibuat sebagai latihan pengembangan frontend.
+        </p>
+        <p>
+          <a href="https://nexctwebclone.vercel.app/">
             <img src="https://img.shields.io/badge/Live Demo-🚀-blue?style=for-the-badge"/>
           </a>
         </p>
@@ -249,7 +262,7 @@ Saya adalah individu dengan minat kuat di bidang **Front-End Development**, **Da
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-#### Data Analysis & Machine Learning
+#### Data Analyst & Machine Learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -269,6 +282,28 @@ Saya adalah individu dengan minat kuat di bidang **Front-End Development**, **Da
 ---
 
 ### 🌐 Connect With Me
+
+<div align="center">
+    $ git log --grep="cinta"
+    commit 8f2a3d1e5b7c9f0a2d4e6b8a0c2e4g6i8k0m2o4
+    Author: aku <aku@email.com>
+    Date:   Mon Feb 16 20:24:00 2026 +0700
+
+        feat: menambahkan rasa sayang ke dalam hati
+
+    commit 9g3b4e2f6c8d0a1b3e5f7g9h1i3j5l7n9p1r3t
+    Author: dia <dia@email.com>
+    Date:   Mon Feb 16 20:25:00 2026 +0700
+
+        fix: menghapus harapan karena beda branch
+
+    $ git merge dia
+    error: branch 'dia' and 'aku' have divergent histories
+    fatal: refusing to merge unrelated histories
+
+    # Mungkin memang harus force push
+    # Tapi takut kehilangan data
+</div>
 
 <p align="center">
   <a href="https://nexct.vercel.app/">
