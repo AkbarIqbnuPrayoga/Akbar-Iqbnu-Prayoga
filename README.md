@@ -26,7 +26,7 @@
 
 <img align="right" src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="250"/>
 
-Saya adalah individu yang memiliki minat kuat di bidang **Front-End Development**, **Data Analyst**, dan **Machine Learning**. Saya berpengalaman dalam mengembangkan antarmuka pengguna yang interaktif dan responsif, menganalisis data untuk menghasilkan wawasan yang berguna, serta mengeksplorasi penerapan model machine learning untuk solusi berbasis database. Komitmen saya dalam mengembangkan skill di bidang IT dan open-source. Saya percaya teknologi bukan sekadar alat, tapi solusi untuk menciptakan dampak nyata.
+Saya memiliki minat yang kuat di bidang **Front-End Development**, **Data Analyst**, dan **Machine Learning**. Saya berpengalaman dalam mengembangkan antarmuka pengguna yang interaktif dan responsif, menganalisis data untuk menghasilkan wawasan yang berguna, serta mengeksplorasi penerapan model machine learning untuk solusi berbasis database. Komitmen saya dalam mengembangkan skill di bidang IT dan open-source. Saya percaya teknologi bukan sekadar alat, tapi solusi untuk menciptakan dampak nyata.
 
 - 🌱 Saat ini sedang belajar: **Machine Learning & Web Developer**
 - 👯 Siap berkolaborasi di: **Proyek Web Development & Data Analyst**
