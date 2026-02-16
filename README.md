@@ -48,7 +48,7 @@ Saya adalah individu yang memiliki minat kuat di bidang **Front-End Development*
 ### 🚀 Projects
 
 <table>
-  <tr>
+<tr>
     <td width="50%">
       <h3 align="center">NEXCT-Image2Prompt</h3>
       <div align="center">
@@ -81,8 +81,8 @@ Saya adalah individu yang memiliki minat kuat di bidang **Front-End Development*
         </p>
       </div>
     </td>
-  </tr>
-  <tr>
+</tr>
+<tr>
     <td width="50%">
       <h3 align="center">NEXCT-ShortLink</h3>
       <div align="center">
@@ -115,8 +115,8 @@ Saya adalah individu yang memiliki minat kuat di bidang **Front-End Development*
         </p>
       </div>
     </td>
-  </tr>
-  <tr>
+</tr>
+<tr>
     <td width="50%">
       <h3 align="center">NEXCT-DramaBox</h3>
       <div align="center">
@@ -149,8 +149,8 @@ Saya adalah individu yang memiliki minat kuat di bidang **Front-End Development*
         </p>
       </div>
     </td>
-  </tr>
-  <tr>
+</tr>
+<tr>
     <td width="50%">
       <h3 align="center">NEXCT-Nime</h3>
       <div align="center">
@@ -183,8 +183,8 @@ Saya adalah individu yang memiliki minat kuat di bidang **Front-End Development*
         </p>
       </div>
     </td>
-  </tr>
-  <tr>
+</tr>
+<tr>
     <td width="50%">
       <h3 align="center">NEXCT-Comments</h3>
       <div align="center">
@@ -217,6 +217,8 @@ Saya adalah individu yang memiliki minat kuat di bidang **Front-End Development*
         </p>
       </div>
     </td>
+</tr>
+<tr>
     <td width="50%">
       <h3 align="center">NEXCT-YoutubeDL</h3>
       <div align="center">
@@ -249,7 +251,7 @@ Saya adalah individu yang memiliki minat kuat di bidang **Front-End Development*
         </p>
       </div>
     </td>
-  </tr>
+</tr>
 </table>
 
 ---
@@ -281,10 +283,11 @@ Saya adalah individu yang memiliki minat kuat di bidang **Front-End Development*
 
 ---
 
-### 🌐 Connect With Me
+### 🌐 Quotes
 
-<div align="center">
+    ```bash
     $ git log --grep="cinta"
+
     commit 8f2a3d1e5b7c9f0a2d4e6b8a0c2e4g6i8k0m2o4
     Author: aku <aku@email.com>
     Date:   Mon Feb 16 20:24:00 2026 +0700
@@ -303,7 +306,10 @@ Saya adalah individu yang memiliki minat kuat di bidang **Front-End Development*
 
     # Mungkin memang harus force push
     # Tapi takut kehilangan data
-</div>
+
+---
+
+### 🌐 Connect With Me
 
 <p align="center">
   <a href="https://nexct.vercel.app/">
