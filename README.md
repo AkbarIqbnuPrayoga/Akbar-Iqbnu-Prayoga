@@ -7,7 +7,7 @@
   <!-- <img src="https://media.tenor.com/BHaRmO7b-bMAAAAi/hsr-honkai-star-rail.gif"/> -->
   <!-- <img src="https://media1.tenor.com/m/NEIq0D_HEgUAAAAd/hsr-honkai.gif"/> -->
   <img src="https://media1.tenor.com/m/NEIq0D_HEgUAAAAd/hsr-honkai.gif" 
-      width="100" 
+      width="250" 
       style="border-radius: 10px; box-shadow: 0 0 20px rgba(0,0,0,0.3);" 
       alt="Honkai GIF" />
 
