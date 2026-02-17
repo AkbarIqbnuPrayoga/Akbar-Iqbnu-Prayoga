@@ -316,7 +316,7 @@
     fatal: refusing to merge unrelated histories
 
     # Mungkin memang harus force push
-    # Tapi takut kehilangan data
+    # Tapi takut kehilangan data aku dari dia
 
 ---
 
