@@ -338,7 +338,7 @@
 <a href="https://github.com/AkbarIqbnuPrayoga" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository" />
 </a>
-  <p>© 2026 NEXCT B444R. All rights reserved. | Akbar Iqbnu Prayoga | Developer NEXCT</p>
+  <p>© 2026 NEXCT. All rights reserved. | Akbar Iqbnu Prayoga | Developer NEXCT</p>
 </div>
 
 <div align="center">
