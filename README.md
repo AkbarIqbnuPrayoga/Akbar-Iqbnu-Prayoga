@@ -5,7 +5,11 @@
 <p align="center">
   <!-- <img src="https://media1.tenor.com/m/0zUyieJX2kgAAAAd/blue-archive-plana.gif"/> -->
   <!-- <img src="https://media.tenor.com/BHaRmO7b-bMAAAAi/hsr-honkai-star-rail.gif"/> -->
-  <img src="https://media1.tenor.com/m/NEIq0D_HEgUAAAAd/hsr-honkai.gif"/>
+  <!-- <img src="https://media1.tenor.com/m/NEIq0D_HEgUAAAAd/hsr-honkai.gif"/> -->
+  <img src="https://media1.tenor.com/m/NEIq0D_HEgUAAAAd/hsr-honkai.gif" 
+      width="600" 
+      style="border-radius: 10px; box-shadow: 0 0 20px rgba(0,0,0,0.3);" 
+      alt="Honkai GIF" />
 
 </p>
 
@@ -53,9 +57,9 @@
 <div align="center">
   
   ![Profile Views](https://komarev.com/ghpvc/?username=AkbarIqbnuPrayoga&color=63a4ff&style=for-the-badge)
-  [![Years Badge](https://badges.pufler.dev/years/SankaVollereii?style=for-the-badge&color=63a4ff)](https://github.com/AkbarIqbnuPrayoga)
-  [![Repos Badge](https://badges.pufler.dev/repos/SankaVollereii?style=for-the-badge&color=63a4ff)](https://github.com/AkbarIqbnuPrayoga)
-  [![Commits Badge](https://badges.pufler.dev/commits/monthly/SankaVollereii?style=for-the-badge&color=63a4ff)](https://github.com/AkbarIqbnuPrayoga)
+  [![Years Badge](https://badges.pufler.dev/years/AkbarIqbnuPrayoga?style=for-the-badge&color=63a4ff)](https://github.com/AkbarIqbnuPrayoga)
+  [![Repos Badge](https://badges.pufler.dev/repos/AkbarIqbnuPrayoga?style=for-the-badge&color=63a4ff)](https://github.com/AkbarIqbnuPrayoga)
+  [![Commits Badge](https://badges.pufler.dev/commits/monthly/AkbarIqbnuPrayoga?style=for-the-badge&color=63a4ff)](https://github.com/AkbarIqbnuPrayoga)
   
 </div>
 
