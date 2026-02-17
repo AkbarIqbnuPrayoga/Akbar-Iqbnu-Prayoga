@@ -3,8 +3,10 @@
 </div>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/0zUyieJX2kgAAAAd/blue-archive-plana.gif"/>
+  <!-- <img src="https://media1.tenor.com/m/0zUyieJX2kgAAAAd/blue-archive-plana.gif"/> -->
   <!-- <img src="https://media.tenor.com/BHaRmO7b-bMAAAAi/hsr-honkai-star-rail.gif"/> -->
+  <img src="https://media1.tenor.com/m/NEIq0D_HEgUAAAAd/hsr-honkai.gif"/>
+
 </p>
 
 <p align="center">
@@ -22,8 +24,8 @@
 
 <h3 align="center">Dont Forget to Follow my Sosial Media</h3>
 <p align="center">
-  <a href="https://nexct.vercel.app/">
-    <img src="https://img.shields.io/badge/Portofolio?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <a href="https://nexct.vercel.app" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/akbariqbnu/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
@@ -40,14 +42,14 @@
 
 <p align="center">
   <a href="https://github.com/AkbarIqbnuPrayoga">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=63A4FF&center=true&vCenter=true&width=500&lines=Full+Stack+%26+Developer;Tech+Educator;Open+Source+Contributor" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=63A4FF&center=true&vCenter=true&width=500&lines=Front+End+Developer;Data+Analyst;Machine+Learning;Web+Developer" alt="Typing SVG" />
   </a>
 </p>
 
 <div align="center">
   <img src="https://cdn.sankavolereii.my.id/Pacman.gif" alt="Pacman Game">
 </div>
-
+<br>
 <div align="center">
   
   ![Profile Views](https://komarev.com/ghpvc/?username=AkbarIqbnuPrayoga&color=63a4ff&style=for-the-badge)
@@ -313,6 +315,8 @@
     # Tapi takut kehilangan data
 
 ---
+
+### 🚀 Thanks For Visiting
 
 <p align="center">
   <img src="https://media1.tenor.com/m/U1PUyE08jtUAAAAd/firefly.gif"/>
