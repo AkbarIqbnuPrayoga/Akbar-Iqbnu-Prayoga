@@ -3,8 +3,8 @@
 </div>
 
 <p align="center">
-  <!-- <img src="https://media1.tenor.com/m/0zUyieJX2kgAAAAd/blue-archive-plana.gif"/> -->
-  <img src="https://media.tenor.com/BHaRmO7b-bMAAAAi/hsr-honkai-star-rail.gif"/>
+  <img src="https://media1.tenor.com/m/0zUyieJX2kgAAAAd/blue-archive-plana.gif"/>
+  <!-- <img src="https://media.tenor.com/BHaRmO7b-bMAAAAi/hsr-honkai-star-rail.gif"/> -->
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
 <h3 align="center">Dont Forget to Follow my Sosial Media</h3>
 <p align="center">
   <a href="https://nexct.vercel.app/">
-    <img src="https://img.shields.io/badge/Website?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portofolio?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/akbariqbnu/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
