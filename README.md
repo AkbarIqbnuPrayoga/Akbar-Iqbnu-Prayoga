@@ -1,43 +1,65 @@
-<h1 align="center">Hi 👋, Aku Akbar Iqbnu Prayoga</h1>
-<h3 align="center">Front-End Developer | Data Enthusiast | Web Developer | Machine Learning</h3>
-
 <div align="center">
-  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="200"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:83eaf1,100:63a4ff&height=200&text=Akbar%20Iqbnu%20Prayoga&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Front-End%20Developer%20|%20Data%20Analyst%20|%20Web%20Developer%20|%20Machine%20Learning%20&descAlignY=55&descSize=15"/>
 </div>
 
 <p align="center">
-  <a href="https://nexct.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-nexct.vercel.app-blue?style=for-the-badge&logo=vercel"/>
-  </a>
+  <!-- <img src="https://media1.tenor.com/m/0zUyieJX2kgAAAAd/blue-archive-plana.gif"/> -->
+  <img src="https://media.tenor.com/BHaRmO7b-bMAAAAi/hsr-honkai-star-rail.gif"/>
+</p>
+
+<p align="center">
   <a href="https://github.com/AkbarIqbnuPrayoga">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Tagesschrift&size=25&duration=2000&pause=800&color=F7F7F7&background=FF001400&center=true&vCenter=true&multiline=true&width=450&height=80&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+Akbar+Iqbnu+Prayoga;%F0%9F%8F%A0Welcome+To+My+Github+Repository" alt="Typing SVG" />
+  </a>
+</p>
+
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,python,pandas,numpy,sklearn,linux,git,github,vscode&perline=6" />
+    </a>
+</p>
+
+<h3 align="center">Dont Forget to Follow my Sosial Media</h3>
+<p align="center">
+  <a href="https://nexct.vercel.app/">
+    <img src="https://img.shields.io/badge/Website?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/akbariqbnu/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
-  <a href="https://www.tiktok.com/@4kb444r?">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+  <a href="https://www.tiktok.com/@4kb444r">
+    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/942692205053755412">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 🐍 About Me
+<p align="center">
+  <a href="https://github.com/AkbarIqbnuPrayoga">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=63A4FF&center=true&vCenter=true&width=500&lines=Full+Stack+%26+Developer;Tech+Educator;Open+Source+Contributor" alt="Typing SVG" />
+  </a>
+</p>
 
-<img align="right" src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="250"/>
+<div align="center">
+  <img src="https://cdn.sankavolereii.my.id/Pacman.gif" alt="Pacman Game">
+</div>
 
-Saya memiliki minat yang kuat di bidang **Front-End Development**, **Data Analyst**, dan **Machine Learning**. Saya berpengalaman dalam mengembangkan antarmuka pengguna yang interaktif dan responsif, menganalisis data untuk menghasilkan wawasan yang berguna, serta mengeksplorasi penerapan model machine learning untuk solusi berbasis database. Komitmen saya dalam mengembangkan skill di bidang IT dan open-source. Saya percaya teknologi bukan sekadar alat, tapi solusi untuk menciptakan dampak nyata.
-
-- 🌱 Saat ini sedang belajar: **Machine Learning & Web Developer**
-- 👯 Siap berkolaborasi di: **Proyek Web Development & Data Analyst**
-- 📫 Hubungi saya: **akbariqbnup@gmail.com**
-- ⚡ Fun fact: Saya suka ngoding sambil makan pilus
-
-<br clear="right"/>
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=AkbarIqbnuPrayoga&color=63a4ff&style=for-the-badge)
+  [![Years Badge](https://badges.pufler.dev/years/SankaVollereii?style=for-the-badge&color=63a4ff)](https://github.com/AkbarIqbnuPrayoga)
+  [![Repos Badge](https://badges.pufler.dev/repos/SankaVollereii?style=for-the-badge&color=63a4ff)](https://github.com/AkbarIqbnuPrayoga)
+  [![Commits Badge](https://badges.pufler.dev/commits/monthly/SankaVollereii?style=for-the-badge&color=63a4ff)](https://github.com/AkbarIqbnuPrayoga)
+  
+</div>
 
 ---
 
-## 📈 Coding Streak
+## 📊 Github Stats
 
 <div align="center">
 
@@ -266,16 +288,6 @@ Saya memiliki minat yang kuat di bidang **Front-End Development**, **Data Analys
 
 ---
 
-### Tools
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,python,pandas,numpy,sklearn,linux,git,github,vscode&perline=6" />
-
-</div>
-
----
-
 ### 🌐 Quotes
 
     ```bash
@@ -302,28 +314,23 @@ Saya memiliki minat yang kuat di bidang **Front-End Development**, **Data Analys
 
 ---
 
-### 🌐 Connect With Me
-
 <p align="center">
-  <a href="https://nexct.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-🖥️-000000?style=for-the-badge"/>
-  </a>
-  <a href="https://github.com/AkbarIqbnuPrayoga">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/akbariqbnu/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://www.tiktok.com/@4kb444r?">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
-  </a>
+  <img src="https://media1.tenor.com/m/U1PUyE08jtUAAAAd/firefly.gif"/>
 </p>
+
+<div align="center">
+  <a href="https://github.com/AkbarIqbnuPrayoga">
+    <img src="https://readme-typing-svg.demolab.com?font=Google+Sans&weight=600&size=24&pause=1000&color=63A4FF&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let's+code+and+learn+together!+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AkbarIqbnuPrayoga&style=flat-square&color=blue" alt="Profile views"/>
-  <p>© 2026 NEXCT B444R. Semua Hak Dilindungi. | Akbar Iqbnu Prayoga | Developer NEXCT</p>
+<a href="https://github.com/AkbarIqbnuPrayoga" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository" />
+</a>
+  <p>© 2026 NEXCT B444R. All rights reserved. | Akbar Iqbnu Prayoga | Developer NEXCT</p>
 </div>
 
 <div align="center">
