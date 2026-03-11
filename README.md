@@ -65,7 +65,7 @@
 
 ---
 
-## 📊 Github Stats
+## 📊 Most Used Languages
 
 <div align="center">
   
