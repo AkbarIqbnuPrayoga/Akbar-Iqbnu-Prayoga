@@ -70,12 +70,12 @@
 <div align="center">
   
   <!-- Top Languages Card -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkbarIqbnuPrayoga&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+  <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkbarIqbnuPrayoga&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
   
   <!-- Streak Stats -->
-  <p>
+  <!-- <p>
     <img src="https://streak-stats.demolab.com?user=AkbarIqbnuPrayoga&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&background=45%2C0A2C4A%2C1A1B27" alt="GitHub Streak"/>
-  </p>
+  </p> -->
   
 </div>
 
