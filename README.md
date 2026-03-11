@@ -68,12 +68,21 @@
 ## 📊 Github Stats
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=&theme=tokyonight&hide_border=true"/>
-<!-- ![](https://github-readme-stats.vercel.app/api?username=AkbarIqbnuPrayoga&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AkbarIqbnuPrayoga&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AkbarIqbnuPrayoga&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
-
+  
+  <!-- GitHub Stats Card -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AkbarIqbnuPrayoga&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  
+  <!-- Top Languages Card -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkbarIqbnuPrayoga&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+  
+  <!-- Streak Stats -->
+  <p>
+    <img src="https://streak-stats.demolab.com?user=AkbarIqbnuPrayoga&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&background=45%2C0A2C4A%2C1A1B27" alt="GitHub Streak"/>
+  </p>
+  
+  <!-- Commit Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkbarIqbnuPrayoga&theme=tokyo-night&hide_border=true" width="90%"/>
+  
 </div>
 
 ---
